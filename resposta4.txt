@@ -1,0 +1,6 @@
+4- Sobre a modelagem feita por Ianko para a ImmoLink, quais são as divergências em relação ao seu pensamento, seja em tipagem, nomenclatura, tabelas, etc.
+* Em primeiro lugar, desculpa 😂. Em segundo lugar, por que foi feito no Whimsical? Fica difícil visualizar as cardinalidades dos relacionamentos;
+* Nome das tabelas - As entidades com nomes compostos por mais de uma palavra, em vez de CamelCase eu usaria snake_case para facilitar a leitura;
+* Tabela de telefone - As entidades de telefone eu colocaria os tipos dos atributos "DDD" e "Numero" como tipos de dados numéricos, BIT e INT respectivamente,
+                       pois por mais que não efetuemos cálculos nestes dados, eles são numéricos;
+* Tabelas de usuários - Nas tabelas de usuários (Funcionário, Proprietário, Dono, Inquilino), ficou faltando alguma forma de fazer login no sistema (email e senha);
