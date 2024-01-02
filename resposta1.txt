@@ -1,0 +1,9 @@
+1- Cite qual é a utilidade de cada um dos pilares do pensamento computacional e como podem ser usados em problemas reais não relacionados a computadores.
+Os quatro pilares do Pensamento Computacional são: Abstração, Decomposição, Reconhecimento de Padrões e Algoritmo;
+
+O processo de ABSTRAÇÃO consiste em compreender o problema de forma geral, levantando pontos importantes e evitando que elementos menos relevantes entrem no projeto;
+A técnica de DECOMPOSIÇÃO corresponde a fragmentar o problema em pequenas partes, para uma maior compreensão dos passos a serem seguidos para a resolução do problema;
+A fase de RECONHECIMENTO DE PADRÕES consiste em identificar possíveis repetições que venham a ocorrer no projeto, para quando identificado mais de uma vez, este já possua uma solução, trazendo agilidade para a resolução do problema;
+Já o pilar do ALGORITMO é a fase de "materialização" do projeto, criando e estabelecendo regras de acordo com determinado comportamento;
+
+Os quatro pilares do pensamento computacional podem ser usados para resolução de diversos problemas do cotidiano, pois aplicando de forma correta, o usuário consegue compreender melhor a tarefa a ser executada, permitindo um maior aproveitamento de tempo e de esforço.
