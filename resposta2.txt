@@ -1,0 +1,3 @@
+2- Com suas palavras, explique a importância de seguir as regras normais no desenvolvimento de uma modelagem de dados.
+Aplicar as Formas Normais no desenvolvimento de uma Modelagem de Dados é  de suma importância, pois garante que o Banco de Dados seja bem construído
+sem possíveis anomalias e inconsistências, permitindo que entidades, atributos e relacionamentos tenham coesão na manipulação dos dados.
